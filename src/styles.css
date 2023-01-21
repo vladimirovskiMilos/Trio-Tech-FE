@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+body{
+  background: linear-gradient(90deg, rgba(252,242,193,1) 0%, rgba(110,81,37,1) 48%, rgba(2,0,36,0.9360119047619048)  100%);
+ /* background-image: url(assets/images/full-screen.jpg);
+   background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Gill Sans Extrabold */
+
+  /* background-size: cover; */
+
+}
+*{
+  margin: 0;
+  padding: 0;
+}
